@@ -211,4 +211,13 @@ nav {
     bottom: 0;
     display: flex;
     justify-content: center;
+    transform: scale(0);
+}
+
+.language:hover, .language__name {
+    transform: scale(1);
+}
+
+.language:hover, .language__img {
+    
 }
