@@ -125,7 +125,6 @@ nav {
 .nav__link--anchor {
     margin: 0 12px;
     color: #242424;
-    
     font-weight: 700;
 }
 
@@ -203,13 +202,13 @@ nav {
 }
 
 .about-me__info--title {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
     animation: fade-up 650ms 400ms backwards;
 }
 
 .about-me__info--para {
     font-size: 20px;
-    margin-bottom: 28px;
+    margin-bottom: 48px;
     animation: fade-up 650ms 600ms backwards;
 }
 
